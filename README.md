@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React & TypeScript** ❤️
 
-- 📫 Contact me **juan.espinoza@valtech.com**
+- 📫 Contact me **espinozaajuan04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
