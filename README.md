@@ -1,6 +1,8 @@
 <h1 align="center">Hi 😄, I'm Juan</h1>
 <h3 align="center">A frontend developer from Argentina</h3>
 
+- 🏢 Working at [Valtech](https://www.valtech.com/)
+
 - 🌱 I’m currently learning **Next.js & TypeScript** ❤️
 
 - 📫 Contact me **espinozaajuan04@gmail.com**
