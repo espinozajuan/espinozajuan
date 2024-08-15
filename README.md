@@ -3,8 +3,6 @@
 
 - 🏢 Working at [Valtech](https://www.valtech.com/)
 
-- 🌱 I’m currently learning **Next.js & TypeScript** ❤️
-
 - 📫 Contact me **espinozaajuan04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
