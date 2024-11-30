@@ -1,11 +1,11 @@
 <h1 align="center">Juan Gabriel Espinoza </h1>
 <h4 align="left">I'm a front-end developer with a passion for crafting user-friendly interfaces using modern technologies like React, JavaScript, TypeScript, and Next.js. I've contributed to key projects such as digital wallets and e-commerce platforms, focusing on optimizing performance and enhancing user experiences. I thrive in collaborative environments and am committed to continuous learning and problem-solving.</h4>
 
-- 🏢 Working at [Valtech](https://www.valtech.com/)
+- 🏢 Working at [Globant](https://www.globant.com/)
 
 - 📫 Contact me **espinozaajuan04@gmail.com**
 
-- 🌐 [Personal Website](https://jge.ar/)
+- 🌐 [Portfolio](https://jge.ar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
